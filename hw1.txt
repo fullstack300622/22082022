@@ -1,6 +1,6 @@
 Please go over try-catch in w3schools page
 
-here is the link:
+try catch
 https://www.w3schools.com/java/java_try_catch.asp
 
 interfaces:
