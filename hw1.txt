@@ -1,3 +1,7 @@
 Please go over try-catch in w3schools page
+
 here is the link:
 https://www.w3schools.com/java/java_try_catch.asp
+
+interfaces:
+https://www.w3schools.com/java/java_interface.asp
